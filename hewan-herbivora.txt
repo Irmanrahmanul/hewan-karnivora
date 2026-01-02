@@ -6,3 +6,5 @@ Macam macam hewan herbivora
 - kuda
 - gajah
 - ikan hiu 
+- unta
+
