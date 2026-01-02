@@ -4,3 +4,4 @@ Macam macam hewan herbivora
 - kelinci
 - kerbau
 - kuda
+- unta
